@@ -102,6 +102,7 @@ body{
 .container{
   width: 90%;
   margin-inline: auto;
+   max-width: 1660px;
 }
 
 .text-accent{ color: var(--aca-red); }
@@ -792,6 +793,7 @@ width: 100%;
     gap: 34px;
   }
 }
+
 
 
 
