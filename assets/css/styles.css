@@ -396,6 +396,9 @@ body{
   max-width: 100%;
 }
 
+.section-beneficios {
+   padding-top: 60px;
+}
 
 
 /* -------------------------
@@ -789,6 +792,7 @@ width: 100%;
     gap: 34px;
   }
 }
+
 
 
 
